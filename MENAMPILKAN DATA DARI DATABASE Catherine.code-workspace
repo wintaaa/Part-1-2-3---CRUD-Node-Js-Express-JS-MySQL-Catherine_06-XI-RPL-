@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Kelas_NoAbsen_crud Catherine"
+		},
+		{
+			"path": "../KONEKSI DATABASE Catherine"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MENAMPILKAN DATA DARI DATABASE Catherine"
+	}
+}
